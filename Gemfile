@@ -16,6 +16,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'figaro', '>= 1.0.0.rc1'
 gem 'puma'
+gem 'paperclip', '~> 4.3'
 group :development do
   gem 'better_errors'
   gem 'quiet_assets'
