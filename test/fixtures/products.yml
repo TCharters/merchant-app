@@ -2,16 +2,16 @@
 
 one:
   name: MyString
-  category_id: 
-  brand_id: 
+  category_id: 1
+  brand_id: 1
   description: MyText
   price: 9.99
   quantity: 1
 
 two:
   name: MyString
-  category_id: 
-  brand_id: 
+  category_id: 1
+  brand_id: 1
   description: MyText
   price: 9.99
   quantity: 1
